@@ -1,0 +1,9 @@
+SQLAlchemy==2.0.35
+sqlparse==0.5.1
+pytest
+pandas
+scipy
+numpy
+matplotlib
+seaborn
+emoji
